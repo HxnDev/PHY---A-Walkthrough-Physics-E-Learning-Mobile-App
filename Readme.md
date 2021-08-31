@@ -4,6 +4,6 @@ All the files have been commented for your ease. Furthermore you may also add fu
 
 This project has equal contributions by [Sana Ali](https://github.com/sanaa-khan), [Abeera Fatima](https://github.com/ninjacarrot) and [Azka Khurram](https://github.com/AzkaKhurram)
 
-Everyone had more or less equal contribution in this project and this was the best project in the whole batch.
+Everyone had more or less equal contribution in this project.
 
 For further queries contact me at : chhxnshah@gmail.com
